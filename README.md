@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Links" src="./assets/favicon.png" width="80px"> 
+<img alt="Links" src="./assets/favicon.png" width="80px"> </div>
 
 <div align="center"> 
 
