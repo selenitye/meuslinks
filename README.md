@@ -1,4 +1,7 @@
-<h1 align="center"> Meus Links </h1> 
+<div align="center"> 
+<h1>Meus Links</h1>
+</div>
+<br/>
 
 <p align="center">
 Plataforma de Curadoria de Links para criar um Cartão de Visita Digital com HTML, CSS e JavaScript 
