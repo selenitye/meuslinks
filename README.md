@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 <div align="center">
 <img alt="Links" src="./assets/favicon.png" width="80px"> 
-=======
+
 <div align="center"> 
->>>>>>> 008a8bec445747822c5e4d8d199a24d8c8579dd0
+
 <h1>Meus Links</h1>
 </div>
 <br/>
