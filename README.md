@@ -1,4 +1,8 @@
-<h1 align="center"> Meus Links </h1> 
+<div align="center">
+<img alt="Links" src="./assets/favicon.png" width="80px"> 
+<h1>Meus Links</h1>
+</div>
+<br/>
 
 <p align="center">
 Plataforma de Curadoria de Links para criar um Cartão de Visita Digital com HTML, CSS e JavaScript 
@@ -8,7 +12,7 @@ Plataforma de Curadoria de Links para criar um Cartão de Visita Digital com HTM
 </p>
 <br>
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/readme_banner.png" width="100%">
+  <img alt="projeto meusLinks" src=".github/readme_banner.png" width="100%">
 </p>
 
 ## 🔍 Visão Geral
@@ -40,7 +44,7 @@ Para clonar o repositório do projeto, siga as etapas abaixo:
 2. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/selenitye/ameuslinks.git
+git clone https://github.com/selenitye/meuslinks.git
 ```
 
 Certifique-se de substituir `selenitye` pelo seu nome de usuário do GitHub.
