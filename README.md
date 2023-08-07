@@ -21,9 +21,9 @@ Plataforma de Curadoria de Links para criar um Cartão de Visita Digital com HTM
 ## 🔍 Visão Geral
 
 O meusLinks é uma plataforma online de intercâmbio de links personalizados, criados com HTML, CSS e JavaScript, para servir como cartões de visita digitais. 
-Os usuários podem agregar e exibir links relevantes, como redes sociais e portfólio, em um design atraente e interativo com possibilidade de interface clara e escura.
+Os usuários podem agregar e exibir links relevantes, como redes sociais e portfólio, em um design atraente e interativo com possibilidade de interfaces clara e escura.
 
-O projeto faz parte de um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+O projeto faz parte de um programa exclusivo e gratuito, promovido pela [Rocketseat](https://github.com/maykbrito/devlinksRocketseat) para ensino de tecnologias WEB.
 
 ## 🚀 Tecnologias
 
@@ -59,16 +59,16 @@ Você pode visualizar o layout original do projeto através [DESSE LINK](https:/
 ## :construction: Status
 
 Esse projeto está em desenvolvimento e contará com as seguintes alterações:
-- [ ] design para descktop
+- [x] design com Media Queries
 - [ ] responsividade
 
 ## 🤝 Contribuição
 
 Se você deseja contribuir com este projeto, siga as etapas abaixo:
 
-1. Faça um fork do repositório para o seu próp
+1. Faça um fork do repositório para o seu próprio usuário do GitHub.
 
-usuário do GitHub. 2. Clone o repositório forkado para o seu ambiente de desenvolvimento local. 3. Crie uma branch para realizar suas alterações:
+2. Clone o repositório forkado para o seu ambiente de desenvolvimento local. 3. Crie uma branch para realizar suas alterações:
 
 ```bash
 git checkout -b nome-da-sua-branch
